@@ -1,0 +1,15 @@
+nasirbashak@nasirbashak-Lenovo-ideapad-520-15IKB:~/Desktop/DBMS$ git pull DBMS master
+From https://github.com/nasirbashak/DBMSProject
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+nasirbashak@nasirbashak-Lenovo-ideapad-520-15IKB:~/Desktop/DBMS$ git push DBMS master
+Username for 'https://github.com': nasirbashak
+Password for 'https://nasirbashak@github.com': 
+Counting objects: 4, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 368 bytes | 368.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To https://github.com/nasirbashak/DBMSProject.git
+   4bf794a..05b922a  master -> master
+
